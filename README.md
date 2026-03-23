@@ -17,7 +17,7 @@ Wavelink-Wyno is a robust and powerful Lavalink wrapper for [Discord.py](https:/
 Wavelink-Wyno features a fully asynchronous API that's intuitive and easy to use, with full support for Discord's DAVE (E2EE) Voice Protocol.
 
 
-# Migrating from Version 2 to Version 3:
+#  Version 4.0.0:
 
 [Migrating Guide](https://wavelink.dev/en/latest/migrating.html)
 
