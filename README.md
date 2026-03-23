@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Logo](https://raw.githubusercontent.com/wynoislive/wavelink-wyno/main/logo.png)
+![Logo]([https://raw.githubusercontent.com/wynoislive/wavelink-wyno/main/logo.png](https://cdn.discordapp.com/avatars/1367364203567906836/c1485f3428ad9d2a7a464b4685851421.png))
 
 ![Python Version](https://img.shields.io/pypi/pyversions/wavelink-wyno)
 [![PyPI - Version](https://img.shields.io/pypi/v/wavelink-wyno)](https://pypi.org/project/wavelink-wyno/)
